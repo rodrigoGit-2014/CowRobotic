@@ -3,7 +3,7 @@ package com.company;
 import java.util.HashMap;
 import java.util.Map;
 public class CowRobotic {
-
+//rr
     private int[][] map;
 
     private int positionX;
@@ -15,7 +15,7 @@ public class CowRobotic {
     //Set the combinations of orientation once turn left or right: N:north, W:west, E:east, S:south
     private Map<String,Character> orientationCombinations;
 
-
+/jjjjj
     public CowRobotic(){
 
         orientationCombinations = new HashMap<>();
